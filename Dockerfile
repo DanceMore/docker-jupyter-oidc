@@ -1,3 +1,3 @@
-FROM jupyter/scipy-notebook
+FROM jupyterhub/jupyterhub
 
 RUN pip install oauthenticator
